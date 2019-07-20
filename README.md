@@ -7,6 +7,9 @@
 - git add: Add changes from working directory to staging area
 - git commit: commit changes from staging area to current branch
 - git config: Set or get configuration
+- git log: Show history of project commits
+- git branch -c: Create a branch
+- git checkout: Check out (switch to) a branch
 
 ## Commit messages
 
