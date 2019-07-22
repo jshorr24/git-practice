@@ -11,7 +11,8 @@
 - git checkout: Check out branch (update HEAD and apply changes to working directory)
 - git branch -c: Create a branch
 - git merge: Merge changes from different branches
-
+- git checkout: check out a branch (update HEAD)
+- get checkout - b: Create Branch, then check it out
 
 ## Commit messages
 
