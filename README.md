@@ -16,6 +16,7 @@
 - git stash: Stash changes from working directory
 - git stash list: List stashes
 - git stash pop: Apply stashed changes to working directory
+- git remote add
 
 ## Commit messages
 
