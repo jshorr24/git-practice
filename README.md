@@ -12,7 +12,10 @@
 - git branch -c: Create a branch
 - git merge: Merge changes from different branches
 - git checkout: check out a branch (update HEAD)
-- get checkout - b: Create Branch, then check it out
+- git checkout - b: Create Branch, then check it out
+- git stash: Stash changes from working directory
+- git stash list: List stashes
+- git stash pop: Apply stashed changes to working directory
 
 ## Commit messages
 
